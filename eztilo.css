@@ -1,0 +1,44 @@
+body {
+	background-image: url(FondoNegro.jpg);
+	background-repeat: repeat;
+}
+* {
+	font-size: 1em;
+	font-family: RocknRoll One, sans-serif;
+	line-height: 1,2;
+	font-weight: 600;
+}
+h1 {
+	background-color: #000;
+	text-align: center;
+	color: #FFF;
+	margin-top: 10px;
+	border-radius: 10px;
+	padding: 5px 0px
+}
+footer h4 {
+	color: #FFF;
+	font-weight: 100;
+	margin-left: 10px
+}
+h4 {
+	margin-top: 1000px;
+	padding: 0px 0px 10px 10px
+}
+img {
+	margin: 10px;
+	border: 5px solid #FFF;
+	border-radius: 20px
+}
+/*div {
+	margin:10px 600px 0px 10px;
+	border: 10px solid #fff;
+	display: inline;
+}
+div h6 {
+	color: #FFF;
+	text-align: center;
+}*/
+.isaac {
+	color: #000;
+}

@@ -1,0 +1,81 @@
+body {
+	background-image: url(FondoNegro.jpg);
+	background-repeat: repeat;
+}
+* {
+	font-size: 1em;
+	font-family: RocknRoll One, sans-serif;
+	line-height: 1,2;
+	font-weight: 600;
+}
+h1 {
+	background-color: #000;
+	text-align: center;
+	color: #FFF;
+	margin-top: 10px;
+	border-radius: 20px 20px 0px 0px;
+	padding: 5px 0px
+}
+.isaac {
+	margin: 10px;
+	border: 5px solid #FFF;
+	position: relative;
+	z-index: 1;
+	display: inline;
+	border-radius: 20px
+}
+div p {
+	color: #FFF;
+	font-weight: 100
+}
+div {
+	margin: 10px 10px 10px 325px;
+	display: inline;
+	position: absolute;
+	left: 1px;
+	z-index: 50
+}
+.description {
+	border: 5px solid #fff;
+	display: inline;
+	position: absolute;
+	left: 1px;
+	z-index: 50;
+	border-radius: 10px
+}
+h2 {
+	color: #FFF;
+	text-align: center;
+	padding: 10px;
+	background-color: #000;
+	border-radius: 0px 0px 20px 20px;
+	font-weight: 100;
+	position: static;
+}
+.h6 {
+	color: #FFF;
+	display: inline;
+	border: 5px solid #FFF;
+	display: inline;
+	margin-top: 210px
+}
+h6 {
+	font-weight: 100;
+}
+.mega {
+	display: inline;
+	margin: 250px 0px 0px 472px
+}
+.gd {
+	display: inline;
+	margin: 350px 0px 0px 472px
+}
+footer h4 {
+	color: #FFF;
+	font-weight: 100;
+	margin: 50px 0px 0px 10px
+}
+h4 a {
+	color: #FFF;
+	font-weight: 100;
+}
