@@ -79,3 +79,15 @@ h4 a {
 	color: #FFF;
 	font-weight: 100;
 }
+.torrent {
+	display: inline;
+	margin: 260px 0px 0px 472px
+}
+.gd2 {
+	display: inline;
+	margin: 420px 0px 0px 472px
+}
+li a{
+	color: #FFF;
+	font-weight: 100
+}
