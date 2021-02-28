@@ -27,11 +27,20 @@ h4 {
 	padding: 0px 0px 10px 10px
 }
 img {
-	margin: 15px 1px 10px 13px;
+	margin: 15px 17.5px 10px 13px;
 	border: 5px solid #FFF;
 	border-radius: 20px;
 	transition: margin .5s, border .5s;
 }
+/*div {
+	margin:10px 600px 0px 10px;
+	border: 10px solid #fff;
+	display: inline;
+}
+div h6 {
+	color: #FFF;
+	text-align: center;
+}*/
 .isaac {
 	color: #000;
 }
