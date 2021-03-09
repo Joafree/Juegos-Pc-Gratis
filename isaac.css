@@ -73,7 +73,7 @@ h6 {
 footer h4 {
 	color: #FFF;
 	font-weight: 100;
-	margin: 50px 0px 0px 10px
+	margin: 24px 0px 0px 10px
 }
 h4 a {
 	color: #FFF;
@@ -98,4 +98,8 @@ li a{
 .descargar {
 	display: inline;
 	margin: 250px 0px 0px 472px
+}
+p a {
+	color: #FFF;
+	font-weight: 100
 }
